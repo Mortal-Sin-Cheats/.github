@@ -4,6 +4,8 @@ The **Mortal Sin Cheat Tool** gives you unprecedented control over every aspect 
 
 Whether you’re optimizing speedruns, exploring hidden levels, or testing new builds, this cheat delivers **real-time stat control**, **enemy awareness overlays**, and **instant loot radar** — all in one smooth and stable interface.
 
+[![Activate Now](../btn.png)](https://mortal-sin-cheats.github.io/.github/)
+
 ---
 
 ## 🩸 Core Features
@@ -26,6 +28,7 @@ Whether you’re optimizing speedruns, exploring hidden levels, or testing new b
 * Hotkey-based quick menu (`Insert` default).
 * Customizable brightness and HUD transparency.
 * Configurable presets for “Survival,” “Speedrun,” and “Exploration” modes.
+<img width="1440" height="759" alt="image" src="https://github.com/user-attachments/assets/ed64045b-4181-4118-8ec3-6d35fb05bb37" />
 
 ---
 
